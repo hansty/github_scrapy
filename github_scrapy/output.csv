@@ -1,0 +1,1271 @@
+checks,comments,commits,dateLastComment,dateOpened,filesChanged,issue,issueHref,issueId,issueStatus,linesChanged,repoCommits,repoForks,repoHref,repoInfo,repoName,repoOwner,repoStargazers,repoTags,repoWatchers
+,,,2019-10-18T11:06:46Z,2019-10-18T11:06:46Z,,"
+        tensorflow warnings 
+      ",https://github.com/RasaHQ/rasa/issues/4639,#4639,Status: Open,,"
+              13,292
+            ","
+      2,133
+    ",https://github.com/RasaHQ/rasa,"
+          
+",rasa,RasaHQ,"
+      6,906
+    ","Topic: nlp,Topic: machine-learning,Topic: machine-learning-library,Topic: bot,Topic: bots,Topic: botkit,Topic: rasa,Topic: luis,Topic: wit,Topic: nlu,Topic: conversational-bots,Topic: conversational-agents,Topic: conversational-ai,Topic: spacy,Topic: mitie,Topic: chatbot,Topic: chatbots,Topic: chatbots-framework,Topic: bot-framework,Topic: natural-language-processing","
+      288
+    "
+"
+        1
+      ",,"
+          1
+        ",2019-10-11T01:23:42Z,2019-10-11T01:20:21Z,,"
+        Create tensorflow
+      ",https://github.com/lijian69/blog/pull/10,#10,Status: Open,,"
+              19
+            ","
+      1
+    ",https://github.com/lijian69/blog,"
+          程序员进阶之道
+        ",blog,lijian69,"
+      0
+    ","Topic: java,Topic: javascript,Topic: socket,Topic: thread,Topic: spring,Topic: springboot,Topic: springcloud","
+      1
+    "
+,,,2019-10-22T23:45:23Z,2019-10-22T23:44:47Z,,"
+        tensorflow  error
+      ",https://github.com/mrharicot/monodepth/issues/237,#237,Status: Open,,"
+              33
+            ","
+      490
+    ",https://github.com/mrharicot/monodepth,"
+          Unsupervised single image depth prediction with CNNs
+        ",monodepth,mrharicot,"
+      1,420
+    ",,"
+      74
+    "
+,,,2019-10-19T19:51:30Z,2019-10-19T19:51:30Z,,"
+        TensorFlow support
+      ",https://github.com/accraze/python-twelve-tone/issues/18,#18,Status: Open,,"
+              72
+            ","
+      2
+    ",https://github.com/accraze/python-twelve-tone,"
+          
+",python-twelve-tone,accraze,"
+      9
+    ","Topic: music-composition,Topic: midi,Topic: twelve-tone,Topic: matrix,Topic: numpy,Topic: music-generation","
+      2
+    "
+,,,,2019-10-16T16:43:15Z,,"
+        Tensorflow issue
+      ",https://github.com/adtf2019/studious-winner/issues/1,#1,Status: Open,,,"
+      0
+    ",https://github.com/adtf2019/studious-winner,,studious-winner,adtf2019,"
+      0
+    ",,"
+      1
+    "
+"
+        5
+      ","
+            11
+        ","
+          34
+        ",2019-10-10T00:08:19Z,2019-10-09T19:57:11Z,"
+            11
+        ","
+        Pr/tensorflow
+      ",https://github.com/spack/spack/pull/13112,#13112,Status: Open,414 lines changed,"
+              12,963
+            ","
+      784
+    ",https://github.com/spack/spack,"
+          A flexible package manager that supports multiple versions, configurations, platforms, and compilers.
+        ",spack,spack,"
+      1,256
+    ","Topic: python,Topic: spack,Topic: package-manager,Topic: hpc,Topic: scientific-computing,Topic: gov,Topic: supercomputer,Topic: build-tools,Topic: radiuss","
+      84
+    "
+,,,,2019-10-11T07:04:58Z,,"
+        tensorflow
+      ",https://github.com/richzhang/colorization/issues/72,#72,Status: Open,,"
+              92
+            ","
+      496
+    ",https://github.com/richzhang/colorization,"
+          Automatic colorization using deep neural networks. ""Colorful Image Colorization."" In ECCV, 2016.
+        ",colorization,richzhang,"
+      2,122
+    ","Topic: caffe,Topic: colorization,Topic: automatic-colorization,Topic: deep-learning,Topic: deep-learning-algorithms,Topic: computer-vision","
+      108
+    "
+"
+        4
+      ",,"
+          0
+        ",2019-10-16T02:33:51Z,2019-10-10T13:36:01Z,,"
+        TensorFlow
+      ",https://github.com/grantlemons/Alcuin-Robotics-2019-2020/pull/6,#6,Status: Open,,"
+              45
+            ","
+      0
+    ",https://github.com/grantlemons/Alcuin-Robotics-2019-2020,"
+          The OnBotJava code for FTC 2019-2020
+        ",Alcuin-Robotics-2019-2020,grantlemons,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-26T14:03:15Z,,"
+        Tensorflow Requirement
+      ",https://github.com/idealo/imagededup/issues/64,#64,Status: Open,,"
+              360
+            ","
+      184
+    ",https://github.com/idealo/imagededup,"
+          
+",imagededup,idealo,"
+      2,434
+    ","Topic: image-deduplication,Topic: neural-network,Topic: tensorflow,Topic: hashing,Topic: e-commerce,Topic: idealo,Topic: image-preprocessing,Topic: computer-vision","
+      49
+    "
+,,,2019-10-24T13:43:22Z,2019-10-24T13:39:46Z,,"
+        Integration with TensorFlow Federated
+      ",https://github.com/tf-encrypted/rfcs/issues/11,#11,Status: Open,,"
+              2
+            ","
+      0
+    ",https://github.com/tf-encrypted/rfcs,"
+          Community design documents
+        ",rfcs,tf-encrypted,"
+      1
+    ",,"
+      10
+    "
+,,,,2019-10-23T17:21:20Z,,"
+        TensorFlow Version
+      ",https://github.com/SciSharp/TensorFlow.NET/issues/431,#431,Status: Open,,"
+              1,179
+            ","
+      158
+    ",https://github.com/SciSharp/TensorFlow.NET,"
+          .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C#.
+        ",TensorFlow.NET,SciSharp,"
+      788
+    ","Topic: tensorflow,Topic: machine-learning,Topic: scisharp,Topic: deep-learning,Topic: dotnetcore,Topic: chatbot,Topic: csharp","
+      77
+    "
+,,,,2019-10-25T05:05:54Z,,"
+        tensorflow conversion to 2.0
+      ",https://github.com/ZJULearning/pixel_link/issues/153,#153,Status: Open,,"
+              23
+            ","
+      249
+    ",https://github.com/ZJULearning/pixel_link,"
+          Implementation of our paper 'PixelLink: Detecting Scene Text via Instance Segmentation' in AAAI2018
+        ",pixel_link,ZJULearning,"
+      649
+    ",,"
+      34
+    "
+,,,,2019-10-10T11:33:44Z,,"
+        Tensorflow Version
+      ",https://github.com/chenwuperth/rgz_rcnn/issues/9,#9,Status: Open,,"
+              105
+            ","
+      14
+    ",https://github.com/chenwuperth/rgz_rcnn,"
+          ClaRAN: A deep learning classifier for radio morphologies
+        ",rgz_rcnn,chenwuperth,"
+      29
+    ","Topic: radio-sources,Topic: radio-morphologies,Topic: machine-learning,Topic: morphology,Topic: deep-learning,Topic: computer-vision,Topic: faster-rcnn","
+      7
+    "
+,,,2019-10-05T22:10:40Z,2019-10-05T22:10:39Z,,"
+        [FEATURE] TensorFlow 2.0
+      ",https://github.com/microsoft/recommenders/issues/953,#953,Status: Open,,"
+              5,008
+            ","
+      849
+    ",https://github.com/microsoft/recommenders,"
+          Best Practices on Recommendation Systems
+        ",recommenders,microsoft,"
+      6,356
+    ","Topic: machine-learning,Topic: recommender,Topic: ranking,Topic: deep-learning,Topic: python,Topic: jupyter-notebook,Topic: recommendation-algorithm,Topic: rating,Topic: operationalization,Topic: kubernetes,Topic: azure,Topic: microsoft,Topic: recommendation-system,Topic: recommendation-engine,Topic: recommendation,Topic: data-science,Topic: tutorial,Topic: artificial-intelligence","
+      213
+    "
+,,,2019-10-17T15:33:03Z,2019-10-11T05:48:11Z,,"
+        Update to tensorflow 2.0
+      ",https://github.com/jupyter/docker-stacks/issues/948,#948,Status: Open,,"
+              1,172
+            ","
+      1,718
+    ",https://github.com/jupyter/docker-stacks,"
+          Ready-to-run Docker images containing Jupyter applications
+        ",docker-stacks,jupyter,"
+      4,413
+    ","Topic: notebook,Topic: jupyter,Topic: docker,Topic: jupyterhub","
+      188
+    "
+,,,2019-10-08T18:11:02Z,2019-10-01T03:49:55Z,,"
+        Example using tensorflow API
+      ",https://github.com/sherpa-ai/sherpa/issues/66,#66,Status: Open,,"
+              759
+            ","
+      19
+    ",https://github.com/sherpa-ai/sherpa,"
+          Hyperparameter optimization that enables researchers to experiment, visualize, and scale quickly.
+        ",sherpa,sherpa-ai,"
+      166
+    ","Topic: hyperparameter-optimization,Topic: deep-learning,Topic: bayesian-optimization,Topic: keras,Topic: hyperparameter-tuning,Topic: hyperparameter-search,Topic: hyperparameter-grid,Topic: machine-learning,Topic: machine-learning-library","
+      7
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-23T14:31:05Z,2019-10-23T14:31:03Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/nomanarshad94/-udacity-deep-learning-v2-pytorch-untouched/pull/1,#1,Status: Open,,"
+              202
+            ","
+      0
+    ",https://github.com/nomanarshad94/-udacity-deep-learning-v2-pytorch-untouched,,-udacity-deep-learning-v2-pytorch-untouched,nomanarshad94,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-22T11:39:55Z,2019-10-22T11:39:55Z,,"
+        Tensorflow 2 GPU Config error
+      ",https://github.com/horovod/horovod/issues/1458,#1458,Status: Open,,"
+              422
+            ","
+      1,210
+    ",https://github.com/horovod/horovod,"
+          Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+        ",horovod,horovod,"
+      7,752
+    ","Topic: tensorflow,Topic: uber,Topic: machine-learning,Topic: machinelearning,Topic: mpi,Topic: baidu,Topic: deep-learning,Topic: deeplearning,Topic: keras,Topic: pytorch,Topic: mxnet","
+      303
+    "
+,,,,2019-10-01T06:34:20Z,,"
+        TensorFlow examples do not work with TensorFlow==2.0.0.
+      ",https://github.com/pfnet/optuna/issues/565,#565,Status: Open,,"
+              2,684
+            ","
+      126
+    ",https://github.com/pfnet/optuna,"
+          A hyperparameter optimization framework
+        ",optuna,pfnet,"
+      1,279
+    ","Topic: python,Topic: machine-learning,Topic: parallel,Topic: distributed,Topic: hyperparameter-optimization","
+      125
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-16T18:11:17Z,,"
+        Added a terminology tensorflow
+      ",https://github.com/cho0o0/Jargon-Terms-Explained/pull/9,#9,Status: Open,,"
+              40
+            ","
+      20
+    ",https://github.com/cho0o0/Jargon-Terms-Explained,"
+          A collection of articles which explain terminology neatly
+        ",Jargon-Terms-Explained,cho0o0,"
+      4
+    ",,"
+      1
+    "
+,,,2019-10-25T12:10:20Z,2019-10-25T01:34:05Z,,"
+        [Train SCNN-TensorFlow] : <class 'tensorflow.python.framework.errors_impl.CancelledError'>, Enqueue operation was cancelled.
+      ",https://github.com/cardwing/Codes-for-Lane-Detection/issues/175,#175,Status: Open,,"
+              253
+            ","
+      150
+    ",https://github.com/cardwing/Codes-for-Lane-Detection,"
+          Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)
+        ",Codes-for-Lane-Detection,cardwing,"
+      440
+    ","Topic: lane-detection,Topic: deep-learning,Topic: lua,Topic: tensorflow,Topic: cnn,Topic: pytorch","
+      26
+    "
+,,,,2019-10-13T22:14:08Z,,"
+        Monitor is DOWN: tensorflow
+      ",https://github.com/Dallas-Makerspace/tracker/issues/620,#620,Status: Open,,"
+              25
+            ","
+      2
+    ",https://github.com/Dallas-Makerspace/tracker,"
+          Infrastructure Issue tracker for change items
+        ",tracker,Dallas-Makerspace,"
+      0
+    ","Topic: itil,Topic: issue,Topic: tracking","
+      7
+    "
+"
+        15
+      ",,"
+          0
+        ",,2019-10-07T17:07:21Z,,"
+        Try setting up tensorflow
+      ",https://github.com/tidymodels/tidymodels/pull/18,#18,Status: Open,,"
+              68
+            ","
+      21
+    ",https://github.com/tidymodels/tidymodels,"
+          Easily Install and Load the 'Tidymodels' Packages
+        ",tidymodels,tidymodels,"
+      211
+    ",,"
+      18
+    "
+,,,2019-10-23T12:28:36Z,2019-10-23T12:21:38Z,,"
+        Compatibility with tensorflow 1.14
+      ",https://github.com/skokec/segdec-net-jim2019/issues/13,#13,Status: Open,,"
+              6
+            ","
+      9
+    ",https://github.com/skokec/segdec-net-jim2019,"
+          Surface Defect Detection with Segmentation-Decision Network on KolektorSDD
+        ",segdec-net-jim2019,skokec,"
+      21
+    ",,"
+      2
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-27T01:50:45Z,,"
+        Update tensorflow/tensorflow Docker tag to v1.15.0
+      ",https://github.com/dotmesh-io/jupyterlab-tensorflow/pull/38,#38,Status: Open,,"
+              192
+            ","
+      1
+    ",https://github.com/dotmesh-io/jupyterlab-tensorflow,"
+          jupyterlab with tensorflow and the dotmesh jupyterlab extension
+        ",jupyterlab-tensorflow,dotmesh-io,"
+      5
+    ",,"
+      4
+    "
+,,,2019-10-11T23:26:23Z,2019-10-11T23:26:23Z,,"
+        Expose TensorFlow version
+      ",https://github.com/losttech/Gradient/issues/18,#18,Status: Open,,"
+              32
+            ","
+      2
+    ",https://github.com/losttech/Gradient,"
+          This repository serves as a public issue tracker and documentation host for Gradient, full TensorFlow binding for .NET
+        ",Gradient,losttech,"
+      81
+    ",,"
+      5
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-19T01:06:56Z,,"
+        [ImgBot] Optimize images
+      ",https://github.com/hustcxl/tensorflow/pull/1,#1,Status: Open,,"
+              50,826
+            ","
+      78,153
+    ",https://github.com/hustcxl/tensorflow,"
+          An Open Source Machine Learning Framework for Everyone
+        ",tensorflow,hustcxl,"
+      0
+    ",,"
+      0
+    "
+"
+        1
+      ","
+            2
+        ","
+          2
+        ",2019-10-25T14:53:22Z,2019-10-24T11:59:17Z,"
+            2
+        ","
+        compatibility with tensorflow 2.0
+      ",https://github.com/matterport/Mask_RCNN/pull/1817,#1817,Status: Open,16 lines changed,"
+              203
+            ","
+      6,617
+    ",https://github.com/matterport/Mask_RCNN,"
+          Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+        ",Mask_RCNN,matterport,"
+      14,516
+    ","Topic: mask-rcnn,Topic: tensorflow,Topic: object-detection,Topic: instance-segmentation,Topic: keras","
+      549
+    "
+,,,2019-10-11T18:55:58Z,2019-10-10T18:29:30Z,,"
+        Remove TensorFlow Serving [1]
+      ",https://github.com/cortexlabs/cortex/issues/505,#505,Status: Open,,"
+              686
+            ","
+      67
+    ",https://github.com/cortexlabs/cortex,"
+          Deploy machine learning models in production
+        ",cortex,cortexlabs,"
+      1,405
+    ","Topic: machine-learning,Topic: deep-learning,Topic: deployment,Topic: aws","
+      34
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-15T13:26:45Z,2019-10-15T13:26:44Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/charlescirotteau/Dog_Breed_Classifier_Project/pull/1,#1,Status: Open,,"
+              202
+            ","
+      0
+    ",https://github.com/charlescirotteau/Dog_Breed_Classifier_Project,,Dog_Breed_Classifier_Project,charlescirotteau,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-24T08:58:41Z,,"
+        Tensorflow version pruner not working
+      ",https://github.com/microsoft/nni/issues/1652,#1652,Status: Open,,"
+              1,049
+            ","
+      475
+    ",https://github.com/microsoft/nni,"
+          An open source AutoML toolkit for neural architecture search and hyper-parameter tuning.
+        ",nni,microsoft,"
+      3,466
+    ","Topic: automl,Topic: deep-learning,Topic: neural-architecture-search,Topic: hyperparameter-optimization,Topic: distributed,Topic: bayesian-optimization,Topic: python,Topic: automated-machine-learning,Topic: gpu,Topic: hyper-parameter-tuning","
+      133
+    "
+,,,2019-10-20T09:28:41Z,2019-10-20T09:27:51Z,,"
+        remove tensorflow from requirements
+      ",https://github.com/autonomio/signs/issues/5,#5,Status: Open,,"
+              71
+            ","
+      1
+    ",https://github.com/autonomio/signs,"
+          A suite of tools for text preparation, vectorization and processing for deep learning with Keras.
+        ",signs,autonomio,"
+      10
+    ","Topic: gensim,Topic: spacy,Topic: keras,Topic: fasttext,Topic: glove,Topic: word2vec,Topic: embeddings","
+      2
+    "
+"
+        1
+      ","
+            1
+        ","
+          7
+        ",2019-10-25T09:32:30Z,2019-10-25T09:32:30Z,"
+            1
+        ","
+        Updated TensorFlow India Community URL
+      ",https://github.com/tensorflow/docs/pull/1135,#1135,Status: Open,2 lines changed,"
+              6,570
+            ","
+      2,472
+    ",https://github.com/tensorflow/docs,"
+          TensorFlow documentation
+        ",docs,tensorflow,"
+      2,342
+    ","Topic: tensorflow,Topic: tensorflow-tutorials,Topic: tensorflow-examples,Topic: documentation,Topic: machine-learning,Topic: deep-learning,Topic: deep-neural-networks","
+      150
+    "
+,,,,2019-10-12T10:24:10Z,,"
+        tensorflow 2.0 support?
+      ",https://github.com/policeme/DGCNN/issues/1,#1,Status: Open,,"
+              47
+            ","
+      3
+    ",https://github.com/policeme/DGCNN,"
+          Dilation Gate CNN For Machine Reading Comprehension
+        ",DGCNN,policeme,"
+      6
+    ","Topic: tensorflow,Topic: natural-language-processing,Topic: reading-comprehension,Topic: deep-learning,Topic: bert-embeddings","
+      0
+    "
+"
+        1
+      ","
+            1
+        ","
+          0
+        ",,2019-10-26T11:02:12Z,"
+            1
+        ","
+        Added a new tensorflow resource
+      ",https://github.com/lauragift21/awesome-learning-resources/pull/94,#94,Status: Open,4 lines changed,"
+              271
+            ","
+      135
+    ",https://github.com/lauragift21/awesome-learning-resources,"
+          
+",awesome-learning-resources,lauragift21,"
+      235
+    ","Topic: open-source,Topic: css,Topic: vue,Topic: javascript,Topic: awesome-list,Topic: pwa,Topic: podcast,Topic: serverless,Topic: developer-stories,Topic: machine-learning,Topic: ai","
+      18
+    "
+,,,2019-10-22T10:33:42Z,2019-10-22T10:29:20Z,,"
+        Remove using Tensorflow in backend
+      ",https://github.com/JoseBarbero/UBUMLaaS/issues/125,#125,Status: Open,,"
+              317
+            ","
+      2
+    ",https://github.com/JoseBarbero/UBUMLaaS,"
+          MLaaS platform based on ADMIRABLE and BEST-AI research groups methods.
+        ",UBUMLaaS,JoseBarbero,"
+      2
+    ",,"
+      5
+    "
+,,,2019-10-10T16:28:45Z,2019-10-10T01:48:12Z,,"
+        TensorFlow colab integration
+      ",https://github.com/google/iree/issues/15,#15,Status: Open,,"
+              233
+            ","
+      10
+    ",https://github.com/google/iree,"
+          ",iree,google,"
+      60
+    ",,"
+      11
+    "
+,,,,2019-10-13T08:07:09Z,,"
+        python2 not support tensorflow
+      ",https://github.com/rohithreddy024/Text-Summarizer-Pytorch/issues/22,#22,Status: Open,,"
+              23
+            ","
+      19
+    ",https://github.com/rohithreddy024/Text-Summarizer-Pytorch,"
+          Pytorch implementation of ""A Deep Reinforced Model for Abstractive Summarization"" paper and pointer generator network
+        ",Text-Summarizer-Pytorch,rohithreddy024,"
+      105
+    ","Topic: pytorch,Topic: text-summarization,Topic: mle-training,Topic: rl-training,Topic: beam-search","
+      4
+    "
+,,,,2019-10-17T21:20:07Z,,"
+        Pytorch to Tensorflow conversion
+      ",https://github.com/onnx/tutorials/issues/153,#153,Status: Open,,"
+              121
+            ","
+      276
+    ",https://github.com/onnx/tutorials,"
+          Tutorials for creating and using ONNX models
+        ",tutorials,onnx,"
+      1,271
+    ",,"
+      109
+    "
+,,,,2019-10-25T17:53:24Z,,"
+        Remove dependency on tensorflow.contrib
+      ",https://github.com/CityOfLosAngeles/count-machine/issues/19,#19,Status: Open,,"
+              18
+            ","
+      2
+    ",https://github.com/CityOfLosAngeles/count-machine,"
+          A pedestrian and bike counting service. 
+        ",count-machine,CityOfLosAngeles,"
+      3
+    ",,"
+      12
+    "
+,,,2019-10-12T22:07:31Z,2019-10-12T22:07:31Z,,"
+        Migrate to TensorFlow 2
+      ",https://github.com/docwhite/oneironautix/issues/26,#26,Status: Open,,"
+              84
+            ","
+      0
+    ",https://github.com/docwhite/oneironautix,"
+          Deep dreaming on a Raspberry Pi
+        ",oneironautix,docwhite,"
+      4
+    ",,"
+      1
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-23T05:52:56Z,2019-10-23T05:52:55Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /deep-learning-v2-pytorch/tensorflow/intro-to-tensorflow
+      ",https://github.com/alrahmanak/ml/pull/1,#1,Status: Open,,"
+              18
+            ","
+      0
+    ",https://github.com/alrahmanak/ml,"
+          Machine Learning
+        ",ml,alrahmanak,"
+      0
+    ",,"
+      0
+    "
+,,,2019-10-17T00:49:36Z,2019-10-10T10:34:25Z,,"
+        various Tensorflow versions used
+      ",https://github.com/KONI-SZ/MSCRED/issues/2,#2,Status: Open,,"
+              7
+            ","
+      8
+    ",https://github.com/KONI-SZ/MSCRED,"
+          Multi-Scale Convolutional Recurrent Encoder-Decoder
+        ",MSCRED,KONI-SZ,"
+      7
+    ",,"
+      0
+    "
+"
+        250+
+      ","
+            1,223
+        ","
+          4
+        ",2019-10-26T01:30:21Z,2019-10-21T19:03:07Z,"
+            1,223
+        ","
+        Develop upstream sync 191021
+      ",https://github.com/ROCmSoftwarePlatform/tensorflow-upstream/pull/679,#679,Status: Open,"58,132 lines changed","
+              71,351
+            ","
+      78,153
+    ",https://github.com/ROCmSoftwarePlatform/tensorflow-upstream,"
+          TensorFlow ROCm port
+        ",tensorflow-upstream,ROCmSoftwarePlatform,"
+      312
+    ",,"
+      38
+    "
+,,,,2019-10-07T20:05:09Z,,"
+        Tensorflow 2 version
+      ",https://github.com/suinleelab/attributionpriors/issues/1,#1,Status: Open,,"
+              39
+            ","
+      2
+    ",https://github.com/suinleelab/attributionpriors,"
+          Tools for training explainable models using attribution priors.
+        ",attributionpriors,suinleelab,"
+      40
+    ","Topic: machine-learning,Topic: interpretable-deep-learning,Topic: tensorflow,Topic: artificial-intelligence","
+      0
+    "
+,,,2019-10-14T04:01:38Z,2019-10-14T04:01:37Z,,"
+        Tensorflow-Lite operator version check
+      ",https://github.com/nnsuite/nnstreamer/issues/1759,#1759,Status: Open,,"
+              1,326
+            ","
+      46
+    ",https://github.com/nnsuite/nnstreamer,"
+          
+",nnstreamer,nnsuite,"
+      152
+    ","Topic: ai,Topic: gstreamer,Topic: gstreamer-plugins,Topic: tensorflow,Topic: intelligence,Topic: caffe2,Topic: neural-network,Topic: tizen","
+      20
+    "
+,,,,2019-10-14T20:18:38Z,,"
+        Tensorflow submodule is incorrect
+      ",https://github.com/MechatronicsBlog/TensorFlowLiteQtVPlay/issues/1,#1,Status: Open,,"
+              5
+            ","
+      3
+    ",https://github.com/MechatronicsBlog/TensorFlowLiteQtVPlay,"
+          Tensorflow Lite integration with Qt and V-Play for multi-platform machine learning apps on iOS and Android
+        ",TensorFlowLiteQtVPlay,MechatronicsBlog,"
+      3
+    ","Topic: tensorflow-lite,Topic: android,Topic: ios,Topic: qt5,Topic: machine-learning","
+      1
+    "
+,,,2019-10-24T09:44:22Z,2019-10-24T08:44:52Z,,"
+        No output with tensorflow.
+      ",https://github.com/IDSIA/sacred/issues/684,#684,Status: Open,,"
+              1,267
+            ","
+      255
+    ",https://github.com/IDSIA/sacred,"
+          Sacred is a tool to help you configure, organize, log and reproduce experiments developed at IDSIA.
+        ",sacred,IDSIA,"
+      2,334
+    ","Topic: python,Topic: machine-learning,Topic: infrastructure,Topic: reproducible-research,Topic: reproducibility,Topic: reproducible-science,Topic: mongodb","
+      72
+    "
+,,,2019-10-12T19:05:31Z,2019-10-12T19:05:31Z,,"
+        Tensorflow 2.0 tutorial
+      ",https://github.com/Tianguistengo/MLexperiments-climatechange-computervision/issues/7,#7,Status: Open,,"
+              36
+            ","
+      0
+    ",https://github.com/Tianguistengo/MLexperiments-climatechange-computervision,"
+          Machine Learning Experiments
+        ",MLexperiments-climatechange-computervision,Tianguistengo,"
+      0
+    ",Topic: python,"
+      1
+    "
+,,,,2019-10-25T01:38:16Z,,"
+        Tensorflow version problem
+      ",https://github.com/thunlp/OpenNE/issues/91,#91,Status: Open,,"
+              98
+            ","
+      363
+    ",https://github.com/thunlp/OpenNE,"
+          An Open-Source Package for Network Embedding (NE)
+        ",OpenNE,thunlp,"
+      1,072
+    ",Topic: network-embedding,"
+      53
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-15T18:42:46Z,,"
+        Add Ressource for Tensorflow
+      ",https://github.com/vicoyeh/One-Click-to-Be-Pro/pull/58,#58,Status: Open,,"
+              75
+            ","
+      354
+    ",https://github.com/vicoyeh/One-Click-to-Be-Pro,"
+          A curated list of resources to help you start learning a new CS topic
+        ",One-Click-to-Be-Pro,vicoyeh,"
+      5,058
+    ",,"
+      229
+    "
+"
+        1
+      ",,"
+          1
+        ",2019-10-25T13:16:08Z,2019-10-24T14:34:55Z,,"
+        sparse_image_warp import for TensorFlow 2.0
+      ",https://github.com/DemisEom/SpecAugment/pull/21,#21,Status: Open,,"
+              59
+            ","
+      54
+    ",https://github.com/DemisEom/SpecAugment,"
+          A Implementation of SpecAugment with Tensorflow & Pytorch, introduced by Google Brain
+        ",SpecAugment,DemisEom,"
+      194
+    ","Topic: speech-recognition,Topic: specaugment,Topic: speech,Topic: python,Topic: tensorflow,Topic: pytorch,Topic: data-augmentation","
+      13
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-17T15:52:14Z,,"
+        tensorflow 2 support
+      ",https://github.com/ingolfured/petastorm/pull/2,#2,Status: Open,,"
+              432
+            ","
+      102
+    ",https://github.com/ingolfured/petastorm,"
+          Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+        ",petastorm,ingolfured,"
+      0
+    ",,"
+      0
+    "
+,,,2019-10-09T05:53:47Z,2019-10-08T15:55:05Z,,"
+        update to tensorflow.keras
+      ",https://github.com/bstriner/keras-tqdm/issues/36,#36,Status: Open,,"
+              52
+            ","
+      37
+    ",https://github.com/bstriner/keras-tqdm,"
+          Keras integration with TQDM progress bars
+        ",keras-tqdm,bstriner,"
+      334
+    ",,"
+      6
+    "
+,,,,2019-10-12T06:19:43Z,,"
+        Not tensorflow code
+      ",https://github.com/josephputhumana/malayalam_ocr/issues/1,#1,Status: Open,,"
+              2
+            ","
+      0
+    ",https://github.com/josephputhumana/malayalam_ocr,,malayalam_ocr,josephputhumana,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-21T23:44:27Z,,"
+        Improve tests across tensorflow versions
+      ",https://github.com/vanvalenlab/deepcell-tf/issues/243,#243,Status: Open,,"
+              165
+            ","
+      9
+    ",https://github.com/vanvalenlab/deepcell-tf,"
+          Deep Learning for Single Cell Analysis
+        ",deepcell-tf,vanvalenlab,"
+      49
+    ",,"
+      9
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-08T11:30:24Z,2019-10-08T11:30:23Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/chiefSim/ProjectDogClassification/pull/1,#1,Status: Open,,"
+              202
+            ","
+      0
+    ",https://github.com/chiefSim/ProjectDogClassification,,ProjectDogClassification,chiefSim,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-25T07:34:00Z,2019-10-24T15:52:39Z,,"
+        local tensorflow_datasets unusable with Tensorflow 2 package
+      ",https://github.com/easybuilders/easybuild-easyconfigs/issues/9207,#9207,Status: Open,,"
+              28,884
+            ","
+      399
+    ",https://github.com/easybuilders/easybuild-easyconfigs,"
+          A collection of easyconfig files that describe which software to build using which build options with EasyBuild.
+        ",easybuild-easyconfigs,easybuilders,"
+      166
+    ",,"
+      34
+    "
+,,,2019-10-17T12:02:37Z,2019-10-17T12:02:37Z,,"
+        [WIP] TensorFlow 2.0
+      ",https://github.com/riga/cmsdist/issues/1,#1,Status: Open,,"
+              18,309
+            ","
+      113
+    ",https://github.com/riga/cmsdist,"
+          CMS Offline Software build configuration
+        ",cmsdist,riga,"
+      0
+    ",,"
+      0
+    "
+"
+        1
+      ","
+            3
+        ","
+          0
+        ",,2019-10-28T07:35:43Z,"
+            3
+        ","
+        codegen tensorflow use attr dict
+      ",https://github.com/sql-machine-learning/sqlflow/pull/1094,#1094,Status: Open,53 lines changed,"
+              899
+            ","
+      497
+    ",https://github.com/sql-machine-learning/sqlflow,"
+          Brings SQL and AI together.
+        ",sqlflow,sql-machine-learning,"
+      3,288
+    ","Topic: sqlflow,Topic: sql-syntax,Topic: ai,Topic: transpiler,Topic: deep-learning,Topic: databases,Topic: machine-learning","
+      145
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-23T03:40:57Z,2019-10-23T03:40:56Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/thomasdunlap/deep-learning-v2-pytorch/pull/1,#1,Status: Open,,"
+              207
+            ","
+      0
+    ",https://github.com/thomasdunlap/deep-learning-v2-pytorch,"
+          From Udacity's Deep Learning Nanodegree V2
+        ",deep-learning-v2-pytorch,thomasdunlap,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-21T21:55:10Z,2019-10-21T15:06:08Z,,"
+        Version of Tensorflow
+      ",https://github.com/google/spectral-density/issues/2,#2,Status: Open,,"
+              7
+            ","
+      2
+    ",https://github.com/google/spectral-density,"
+          Hessian spectral density estimation in TF
+        ",spectral-density,google,"
+      10
+    ",,"
+      4
+    "
+,,,,2019-10-15T05:00:54Z,,"
+        Tensorflow 2.0 released
+      ",https://github.com/rlan/mldock/issues/10,#10,Status: Open,,"
+              22
+            ","
+      0
+    ",https://github.com/rlan/mldock,"
+          Base machine learning docker images. Check website for build status: 
+        ",mldock,rlan,"
+      0
+    ",Topic: docker-images,"
+      1
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-15T09:02:40Z,,"
+        Update IntrcptNN using tensorflow
+      ",https://github.com/ElinorG11/Intrcpt/pull/1,#1,Status: Open,,"
+              13
+            ","
+      0
+    ",https://github.com/ElinorG11/Intrcpt,"
+          A program to play a game similar to Atari games
+        ",Intrcpt,ElinorG11,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-09T13:59:06Z,2019-10-09T13:48:51Z,,"
+        Tensorflow installation issues
+      ",https://github.com/jgraving/DeepPoseKit/issues/12,#12,Status: Open,,"
+              288
+            ","
+      17
+    ",https://github.com/jgraving/DeepPoseKit,"
+          a toolkit for pose estimation using deep learning
+        ",DeepPoseKit,jgraving,"
+      59
+    ","Topic: deep-learning,Topic: python,Topic: keras,Topic: pose-estimation,Topic: behavior-analysis,Topic: machine-learning,Topic: tensorflow,Topic: neural-networks,Topic: deepposekit,Topic: animal-pose-estimation,Topic: animal,Topic: pose,Topic: estimation","
+      11
+    "
+"
+        4
+      ",,"
+          1
+        ",2019-10-23T08:07:11Z,2019-10-22T16:45:18Z,,"
+        Tensorflow Hand module
+      ",https://github.com/awf/ADBench/pull/139,#139,Status: Open,,"
+              1,124
+            ","
+      9
+    ",https://github.com/awf/ADBench,"
+          Benchmarking various AD tools.
+        ",ADBench,awf,"
+      15
+    ",,"
+      8
+    "
+"
+        23
+      ",,"
+          0
+        ",,2019-10-18T12:20:59Z,,"
+        Gaussian filter with tensorflow
+      ",https://github.com/shakes76/PatternFlow/pull/58,#58,Status: Open,,"
+              6
+            ","
+      54
+    ",https://github.com/shakes76/PatternFlow,"
+          Pattern recognition and image processing library for Tensorflow
+        ",PatternFlow,shakes76,"
+      5
+    ",,"
+      0
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-21T15:54:11Z,2019-10-21T15:54:10Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/semaraugusto/deep-learning-v2-pytorch/pull/1,#1,Status: Open,,"
+              206
+            ","
+      0
+    ",https://github.com/semaraugusto/deep-learning-v2-pytorch,"
+          My solutions to the exercises in ",deep-learning-v2-pytorch,semaraugusto,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-24T18:38:19Z,,"
+        TensorFlow 1.15
+      ",https://github.com/AnacondaRecipes/tensorflow_recipes/issues/18,#18,Status: Open,,"
+              203
+            ","
+      19
+    ",https://github.com/AnacondaRecipes/tensorflow_recipes,"
+          Tensorflow conda recipes
+        ",tensorflow_recipes,AnacondaRecipes,"
+      9
+    ",,"
+      5
+    "
+,,,,2019-10-08T20:27:40Z,,"
+        Tensorflow model
+      ",https://github.com/loveteshh/CamScanner/issues/3,#3,Status: Open,,"
+              9
+            ","
+      2
+    ",https://github.com/loveteshh/CamScanner,,CamScanner,loveteshh,"
+      0
+    ",,"
+      0
+    "
+,,,2019-10-19T15:53:49Z,2019-10-19T02:43:07Z,,"
+        Evaluate Tensorflow 2.0
+      ",https://github.com/byarbrough/movrasten/issues/18,#18,Status: Open,,"
+              80
+            ","
+      0
+    ",https://github.com/byarbrough/movrasten,"
+          Convert Keras Tensorflow models to OpenVINO for use with Intel Neural Compute Stick on Raspberry Pi
+        ",movrasten,byarbrough,"
+      0
+    ",,"
+      1
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-17T01:37:15Z,2019-10-17T01:37:14Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/pmb06d/first-neural-network/pull/1,#1,Status: Open,,"
+              203
+            ","
+      0
+    ",https://github.com/pmb06d/first-neural-network,,first-neural-network,pmb06d,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-07T18:01:40Z,2019-10-07T14:39:59Z,,"
+        tensorflow error
+      ",https://github.com/quon-titative-biology/scAlign/issues/4,#4,Status: Open,,"
+              142
+            ","
+      4
+    ",https://github.com/quon-titative-biology/scAlign,"
+          A deep learning-based tool for alignment and integration of single cell genomic data across multiple datasets, species, conditions, batches
+        ",scAlign,quon-titative-biology,"
+      14
+    ","Topic: human-cell-atlas,Topic: single-cell,Topic: scrna-seq,Topic: scrna-seq-analysis,Topic: single-cell-genomics","
+      3
+    "
+,,,2019-10-20T22:03:12Z,2019-10-20T22:03:06Z,,"
+        TensorFlow 2.0 compatibility?
+      ",https://github.com/ml5js/training-charRNN/issues/17,#17,Status: Open,,"
+              14
+            ","
+      26
+    ",https://github.com/ml5js/training-charRNN,"
+          Training charRNN modek with ml5js
+        ",training-charRNN,ml5js,"
+      49
+    ",,"
+      9
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-18T12:25:16Z,2019-10-18T12:25:15Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/mhd-alghazal/deep_learning/pull/1,#1,Status: Open,,"
+              202
+            ","
+      0
+    ",https://github.com/mhd-alghazal/deep_learning,,deep_learning,mhd-alghazal,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-28T02:59:43Z,,"
+        Add Tensorflow is perfect
+      ",https://github.com/ColdGrub1384/Pyto/issues/96,#96,Status: Open,,"
+              1,070
+            ","
+      24
+    ",https://github.com/ColdGrub1384/Pyto,"
+          Python IDE for iOS with NumPy, Matplotlib, Pandas, SciPy and SciKit-Learn
+        ",Pyto,ColdGrub1384,"
+      134
+    ","Topic: python,Topic: ios,Topic: cpython,Topic: ide,Topic: mobile-ide,Topic: offline,Topic: native,Topic: no-jailbreak","
+      16
+    "
+,,,2019-10-17T05:33:47Z,2019-10-11T09:17:14Z,,"
+        Tensorflow version
+      ",https://github.com/MiguelMonteiro/permutohedral_lattice/issues/21,#21,Status: Open,,"
+              130
+            ","
+      6
+    ",https://github.com/MiguelMonteiro/permutohedral_lattice,"
+          Permutohedral Lattice C++/CUDA implementation + TensorFlow Op (CPU/GPU)
+        ",permutohedral_lattice,MiguelMonteiro,"
+      37
+    ","Topic: tensorflow,Topic: bilateral-filter,Topic: gaussian-filter,Topic: permutohedral-lattice-algorithm,Topic: gpu,Topic: cuda,Topic: cpp,Topic: conditional-random-fields,Topic: filter","
+      2
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-22T00:28:46Z,2019-10-22T00:28:45Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/Horillaz/deep-learning-pytorch/pull/1,#1,Status: Open,,"
+              1
+            ","
+      0
+    ",https://github.com/Horillaz/deep-learning-pytorch,,deep-learning-pytorch,Horillaz,"
+      0
+    ",,"
+      1
+    "
+,,,2019-10-24T23:15:57Z,2019-10-24T23:15:55Z,,"
+        Installing tensorflow causes crash
+      ",https://github.com/pypa/pipenv/issues/4006,#4006,Status: Open,,"
+              6,526
+            ","
+      1,402
+    ",https://github.com/pypa/pipenv,"
+           Python Development Workflow for Humans.
+        ",pipenv,pypa,"
+      18,665
+    ","Topic: pip,Topic: python,Topic: packaging,Topic: virtualenv,Topic: pipfile,Topic: kennethreitz","
+      375
+    "
+,,,2019-10-13T16:26:54Z,2019-10-13T06:37:05Z,,"
+        Tensorflow error
+      ",https://github.com/yu4u/noise2noise/issues/46,#46,Status: Open,,"
+              54
+            ","
+      127
+    ",https://github.com/yu4u/noise2noise,"
+          An unofficial and partial Keras implementation of ""Noise2Noise: Learning Image Restoration without Clean Data""
+        ",noise2noise,yu4u,"
+      584
+    ","Topic: noise2noise,Topic: deep-learning,Topic: convolutional-neural-networks,Topic: denoising,Topic: keras","
+      34
+    "
+,,,,2019-10-24T06:23:33Z,,"
+        TensorFlow implement
+      ",https://github.com/xcyan/nips16_PTN/issues/11,#11,Status: Open,,"
+              60
+            ","
+      24
+    ",https://github.com/xcyan/nips16_PTN,"
+          Torch Implementation of NIPS'16 paper: Perspective Transformer Nets
+        ",nips16_PTN,xcyan,"
+      107
+    ","Topic: deep-learning,Topic: nips-2016,Topic: 3d-graphics,Topic: torch7,Topic: shapenet,Topic: 3d-models","
+      6
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-22T23:51:11Z,2019-10-22T23:51:10Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/Noman-Tanveer/Pytorch_Course-copied/pull/1,#1,Status: Open,,"
+              202
+            ","
+      0
+    ",https://github.com/Noman-Tanveer/Pytorch_Course-copied,,Pytorch_Course-copied,Noman-Tanveer,"
+      0
+    ",,"
+      1
+    "
+,,,,2019-10-04T06:43:22Z,,"
+        Tensorflow
+      ",https://github.com/MinKyungNet/MinKyungNet.github.io/issues/89,#89,Status: Open,,"
+              692
+            ","
+      339
+    ",https://github.com/MinKyungNet/MinKyungNet.github.io,"
+          Build a Jekyll blog in minutes, without touching the command line.
+        ",MinKyungNet.github.io,MinKyungNet,"
+      0
+    ",,"
+      0
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-21T21:25:15Z,2019-10-21T21:25:14Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/omadoyeabraham/udacity-pytorch-scholarship-challenge/pull/1,#1,Status: Open,,"
+              128
+            ","
+      0
+    ",https://github.com/omadoyeabraham/udacity-pytorch-scholarship-challenge,"
+          Jupyter Notebooks for the udacity pytorch scholarship challenge
+        ",udacity-pytorch-scholarship-challenge,omadoyeabraham,"
+      0
+    ",,"
+      1
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-25T12:11:56Z,,"
+        CNN Using TensorFlow
+      ",https://github.com/LaurentiuSimionescu/Deep-Learning-Examples/pull/1,#1,Status: Open,,"
+              5
+            ","
+      4
+    ",https://github.com/LaurentiuSimionescu/Deep-Learning-Examples,"
+          Simple ANN, CNN and RNN examples.
+        ",Deep-Learning-Examples,LaurentiuSimionescu,"
+      1
+    ","Topic: artificial-intelligence,Topic: artificial-neural-networks,Topic: python3,Topic: artificial-intelligence-algorithms,Topic: artificial-neural-network,Topic: recurrent-neural-network,Topic: convolutional-neural-network","
+      1
+    "
+"
+        1
+      ",,"
+          0
+        ",2019-10-23T04:20:52Z,2019-10-23T04:20:51Z,,"
+        Bump tensorflow from 1.0.0 to 1.12.2 in /tensorflow/intro-to-tensorflow
+      ",https://github.com/sumanyurosha/deep-learning-v2-pytorch/pull/1,#1,Status: Open,,"
+              226
+            ","
+      0
+    ",https://github.com/sumanyurosha/deep-learning-v2-pytorch,,deep-learning-v2-pytorch,sumanyurosha,"
+      0
+    ",,"
+      0
+    "
+,,,2019-10-19T15:45:19Z,2019-10-19T15:45:08Z,,"
+        TensorFlow backend
+      ",https://github.com/espnet/espnet/issues/1294,#1294,Status: Open,,"
+              5,440
+            ","
+      432
+    ",https://github.com/espnet/espnet,"
+          End-to-End Speech Processing Toolkit
+        ",espnet,espnet,"
+      1,528
+    ","Topic: deep-learning,Topic: end-to-end,Topic: chainer,Topic: pytorch,Topic: kaldi,Topic: speech-recognition,Topic: speech-synthesis,Topic: speech-translation,Topic: machine-translation","
+      106
+    "
+"
+        1
+      ",,"
+          0
+        ",,2019-10-07T18:00:38Z,,"
+        Tensorflow
+      ",https://github.com/VAVAMERIN/tensorflow/pull/2,#2,Status: Open,,"
+              3
+            ","
+      3
+    ",https://github.com/VAVAMERIN/tensorflow,"
+          artificial intelligence
+        ",tensorflow,VAVAMERIN,"
+      0
+    ",,"
+      0
+    "
